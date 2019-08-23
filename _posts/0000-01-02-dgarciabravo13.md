@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dios aprieta pero no a **Orca**
 Use the left arrow to go back!
